@@ -1,0 +1,4 @@
+variables.*
+.terraform.lock*
+/state
+.terraform
