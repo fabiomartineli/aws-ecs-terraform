@@ -1,4 +1,4 @@
-variables.*
+variables.local*
 .terraform.lock*
 /state
 .terraform
